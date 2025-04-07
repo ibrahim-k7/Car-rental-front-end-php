@@ -1243,8 +1243,8 @@ ol {
 }
 
 .stats-section {
-	background: url('/img/baner22.png') no-repeat center center/cover;
-	padding: 60px 0;
+	background: url('../img/baner22.png') no-repeat center center/cover;
+    padding: 60px 0;
 	color: #000;
 	position: relative;
 	border-radius: 20px;
